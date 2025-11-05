@@ -1,3 +1,6 @@
 [submodule "UpTask-Server"]
 	path = UpTask-Server
 	url = https://github.com/georgemontero1211-spec/UpTask-Server
+[submodule "UpTask-Frontend"]
+	path = UpTask-Frontend
+	url = https://github.com/georgemontero1211-spec/UpTask-Frontend
